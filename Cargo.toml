@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["xtask", "poc-ddos-xdp", "poc-ddos-xdp-common"]
